@@ -15,7 +15,7 @@ int main()
 	string matrix2;
 
 	double m1[N][N];
-	double m2[N][N];
+	double m2[N][N]; 
 	double m3[N][N];
 
 	int row = 0;
